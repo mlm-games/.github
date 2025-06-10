@@ -13,4 +13,4 @@
 ## Contact me
 
 Can contact me via my mail for any freelance work regarding an Android or Godot app/game or Android ROM dev work. (or for any other matter.. if applicable)
-mail: mlm.gamestudio@gmail.com (ik kinda cringe mail name but whatever ¯\_(ツ)_/¯)
+mail: mlm.gamestudio@gmail.com (ik kinda cringe mail name but whatever ¯\\_(ツ)_/¯)
