@@ -4,6 +4,8 @@ Should probably go offline for some time (or try to make a game i can sell...) (
 
 Might also start having mental health issues if it goes on as it is going on?
 
+Decided to slow down significantly, but maybe take a break first?
+
 ## Snake stats
 
 <p align="center">
