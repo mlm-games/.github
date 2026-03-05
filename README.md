@@ -1,6 +1,8 @@
 # Just a readme for readme's sake
 
-should probably go offline for some time (or try to make a game i can sell...) (FYN, When you do, delete this)
+Should probably go offline for some time (or try to make a game i can sell...) (FYN, When you do, delete this)
+
+Might also start having mental health issues if it goes on as it is going on?
 
 ## Snake stats
 
