@@ -1,8 +1,6 @@
 # Just a readme for the sake of having a readme
 
-Primary device that i use for dev, has suffered an accident, hence it will take (quite some, or a lot of) time to recover
-
-Will probably go offline for some time (or try to make a game i can sell...) (FYN, When you do, delete this)
+Not sustainable atm, and have only a few months... Will probably go offline for some time (or try to make a game i can sell...) (FYN, When you do, delete this)
 
 ## Snake stats
 
